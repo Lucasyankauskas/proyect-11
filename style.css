@@ -1,0 +1,11 @@
+body {
+    background: url(images/image1.jpg) repeat;
+}
+
+canvas {
+    border: 2px solid rgb(189, 72, 212);
+    border-bottom: transparent;
+    background: url('backgroundimage2.avif');
+    margin: 0 auto;
+    display: block;
+}
